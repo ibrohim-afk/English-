@@ -1,0 +1,6 @@
+{
+  "name": "RecountCraft: SMP Grade 8 English Learning Media",
+  "description": "Interactive Recount Text learning media for Grade 8 students and English Education thesis research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
